@@ -1,0 +1,16 @@
+{
+  "name": "Luxury Girl",
+  "symbol": "LGRL",
+  "description": "Luxury Girl (LGRL) — токен на блокчейне BNB Smart Chain, вдохновлённый стилем, женственностью и красотой.",
+  "image": "https://raw.githubusercontent.com/serr442/LGRL-token-logo/main/logo.png",
+  "address": "0xDC26C1146811b3F7E3Af32f773e05fF72360C961",
+  "chainId": 56,
+  "decimals": 18,
+  "website": "",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": "",
+    "github": "https://github.com/serr442/LGRL-token-logo"
+  }
+}
